@@ -26,6 +26,10 @@ Tabla de conexión de pines módulo RAK831 con la raspberry pi 3 B+:
 -----------------------------------
 ![image](https://user-images.githubusercontent.com/72763026/108892388-9062ea80-75ee-11eb-9d23-d310e35e74df.png)
 
+
+![image](https://user-images.githubusercontent.com/72763026/108892996-52b29180-75ef-11eb-8158-b24e89a6f35e.png)
+
+
 --------------------------------------------------------------------
 
 4) Habilitar SPI:
