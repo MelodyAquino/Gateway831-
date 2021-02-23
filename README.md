@@ -19,6 +19,8 @@ Diseño de los pines de RAK 831, diríjase a: https://media.digikey.com/pdf/Data
 
 Diseño de los pines de Raspberry Pi, diríjase a: https://www.raspberrypi.org/documentation/usage/gpio/
 
+![image](https://user-images.githubusercontent.com/72763026/108891467-82f93080-75ed-11eb-965b-7c67c57a16a0.png)
+
 
 Tabla de conexión de pines módulo RAK831 con la raspberry pi 3 B+:
 --------------------------------------------------------------------
