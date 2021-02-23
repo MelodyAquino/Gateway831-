@@ -23,9 +23,8 @@ Diseño de los pines de Raspberry Pi, diríjase a: https://www.raspberrypi.org/d
 
 
 Tabla de conexión de pines módulo RAK831 con la raspberry pi 3 B+:
--------------------------------------------------------------------
-
- ![image](https://user-images.githubusercontent.com/72763026/108892021-277b7280-75ee-11eb-8a75-31a3d3b12ef7.png
+-----------------------------------
+![image](https://user-images.githubusercontent.com/72763026/108892388-9062ea80-75ee-11eb-9d23-d310e35e74df.png)
 
 --------------------------------------------------------------------
 
