@@ -1,6 +1,8 @@
 # Gateway831-
 
 1) Obtenga la placa raspberry pi 3 B+ y obtenga una tarjeta micro sd de 8 gb lista con el software raspbian.Sobre cómo actualizar el sistema operativo en la tarjeta SD, siga las instrucciones aquí: https://www.raspberrypi.org/learning/hardware-guide/
+
+
 NOTA: Para activar el protocolo ssh debe crear en la SD un archivo sin extension con el nombre : ssh ( puede hacerlo con cualquier herramienta de texto y borrar la extension)
 En este paso puede tambien configurar su conexion wifi en Rpi (vea el paso 6). 
 
@@ -162,19 +164,10 @@ Registro de puerta de enlace
 PARAMETROS ESTABLECIDOS PARA ARGENTINA https://www.thethingsnetwork.org/country/argentina (VERIFICAR SIEMPRE LA ACTUALIZACION)
 
 ------------------------------------------------------------------------------------- 
-PARÁMETROS                                                DETALLE/RANGOS  
 
+![image](https://user-images.githubusercontent.com/72763026/108894950-b9d14580-75f1-11eb-82ed-20c360893a88.png)
 
-Región                                                   Argentina 
-Denominación                                             AU915
-Regulación                                               ENACOM
-Restricción  TX                                          400 ms (opcional) 
-Tamaño de carga útil (Payload)                           11 a 242 bytes 
-Spreadings Factors                                       SF7 a SF10
-Velocidad de datos                                       0.976 kbps a 12,5 kbps 
-Potencia Máxima TX                                       +30 dBm
-
----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
 Nota : Pruebas : Antenna placement indoor, después cambiar a outdoor para pruebas en exterior  
 
