@@ -1,4 +1,4 @@
-# Gateway831-
+# GatewayRAK831-
 
 1) Obtenga la placa raspberry pi 3 B+ y obtenga una tarjeta micro sd de 8 gb lista con el software raspbian.Sobre cómo actualizar el sistema operativo en la tarjeta SD, siga las instrucciones aquí: https://www.raspberrypi.org/learning/hardware-guide/
 
