@@ -148,6 +148,9 @@ Para rellenar  el formulario de configuraciones  colocar la siguiente URL :  htt
 
 Nota: cuando iniciamos sesión nuevamente en ambas consolas aparecerán los gateways y aplicaciones que hayamos realizado; se recomienda trabajar con la consola https://console.thethings.meshed.com.au
 
+![image](https://user-images.githubusercontent.com/72763026/108894544-2e57b480-75f1-11eb-9982-023471652598.png)
+
+
 Registro de puerta de enlace
 -
 
