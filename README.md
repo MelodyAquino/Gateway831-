@@ -100,7 +100,6 @@ La configuración de la selección de red para la tarjeta SIM, se refiere a /RAK
       Altitud [0]:
  
 
-Nota:
 -
  El paso de instalación le preguntará si desea habilitar la configuración remota. Escriba 'n' o 'no' y continúe con la instalación. Al comienzo de la instalación de la línea de comandos, el script le mostrará la puerta de enlace EUI, que es importante para los siguientes pasos.
 
@@ -142,6 +141,9 @@ Registro en EN TTN
 ------------------
 REGISTRARSE EN TTN NORMALMENTE PERO NO UTILIZAR LA CONSOLA DE https://www.thethingsnetwork.org/ 
 El  router que se utiliza es el  mallado  de Australia para una frecuencia  915 MHz 
+
+![image](https://user-images.githubusercontent.com/72763026/108894187-c012f200-75f0-11eb-8ed8-34e80a2ebd9e.png)
+
 Para rellenar  el formulario de configuraciones  colocar la siguiente URL :  https://console.thethings.meshed.com.au que es la consola que se comunica directamente con el meshed-router. 
 
 Nota: cuando iniciamos sesión nuevamente en ambas consolas aparecerán los gateways y aplicaciones que hayamos realizado; se recomienda trabajar con la consola https://console.thethings.meshed.com.au
