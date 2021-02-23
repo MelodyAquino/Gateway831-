@@ -154,6 +154,8 @@ Nota: cuando iniciamos sesión nuevamente en ambas consolas aparecerán los gate
 Registro de puerta de enlace
 -
 
+![image](https://user-images.githubusercontent.com/72763026/108894746-6f4fc900-75f1-11eb-9a75-0df5359dcc4a.png)
+
 1) Utilizamos el EUI de la instalación como ID del Gateway 
 2) Seleccionar 
               I'm using the legacy packet forwarder
