@@ -12,8 +12,13 @@ En este paso puede tambien configurar su conexion wifi en Rpi (vea el paso 6).
  Antes incluso de encender la placa, obtenga las antenas del  kit y conéctelas al terminal de tornillo de la antena. ESTO ES ESENCIAL.
 Diseño de los pines de RAK 831, diríjase a: https://media.digikey.com/pdf/Data%20Sheets/Pi%20Supply%20PDFs/PIS-0995_Web.pdf
 
+![image](https://user-images.githubusercontent.com/72763026/108891115-154d0480-75ed-11eb-9809-ea56c1b8425e.png)
+
+
 -Raspberry PI 3 B+ :
+
 Diseño de los pines de Raspberry Pi, diríjase a: https://www.raspberrypi.org/documentation/usage/gpio/
+
 
 Tabla de conexión de pines módulo RAK831 con la raspberry pi 3 B+:
 --------------------------------------------------------------------
